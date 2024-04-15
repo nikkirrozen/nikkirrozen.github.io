@@ -1,0 +1,8 @@
+:root {
+  --border-color: #000;
+}
+
+.table-container th,
+td {
+  border: 1px solid var(--border-color);
+}
